@@ -1,0 +1,11 @@
+# Discord
+discord.py[voice]>=2.3.2
+
+# 비동기 HTTP (Keep-Alive 웹서버)
+aiohttp>=3.9.0
+
+# 환경변수
+python-dotenv>=1.0.0
+
+# 오디오 인코딩 (discord.py voice 의존성)
+PyNaCl>=1.5.0
